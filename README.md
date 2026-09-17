@@ -8,7 +8,7 @@ A proposta busca utilizar a tecnologia de identificação por radiofrequência (
 
 Desenvolver uma solução tecnológica capaz de rastrear e auxiliar na localização de equipamentos físicos, contribuindo para um maior controle dos ativos e para a otimização dos processos internos da empresa.
 
- 📌 Objetivos Específicos
+ 📌 Objetivos Específicos -
 
 - Implementar uma proposta de identificação individual dos equipamentos por meio de tags RFID;
 - Desenvolver um sistema (site/app) capaz de registrar e consultar informações relacionadas aos equipamentos;
